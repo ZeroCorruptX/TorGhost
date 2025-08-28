@@ -1,8 +1,0 @@
-# editor / os
-.DS_Store
-Thumbs.db
-.idea/
-.vscode/
-
-# backups created by scripts
-*.bak
